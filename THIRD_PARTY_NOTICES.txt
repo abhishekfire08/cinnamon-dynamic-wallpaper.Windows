@@ -1,0 +1,16 @@
+Third-Party Notices
+===================
+
+Included wallpaper images
+-------------------------
+The included wallpaper sets originate from the adi1090x/dynamic-wallpaper project:
+https://github.com/adi1090x/dynamic-wallpaper
+
+The upstream repository declares the GNU General Public License version 3.
+The source archive distributed with this installer includes the corresponding
+source project and all bundled image sets. Preserve upstream attribution and
+license notices when redistributing these images.
+
+This Windows application is a 2026 port of Cinnamon Dynamic Wallpaper by
+Tobias, copyright 2023. It is distributed under the GNU General Public License
+version 3 or (at your option) any later version, without warranty.

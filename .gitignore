@@ -1,0 +1,15 @@
+# .NET build outputs
+**/bin/
+**/obj/
+**/.vs/
+
+# Generated Windows publishes and installer packages
+windows/publish*/
+windows/windows/
+windows/installer/output/
+windows/installer/*.exe
+windows/installer/*.zip
+
+# User-specific settings
+*.user
+*.suo
